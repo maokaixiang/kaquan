@@ -1,2 +1,90 @@
-<!--pages/dq/dq.wxml-->
-<text>pages/dq/dq.wxml</text>
+<!-- pages/dq/dq.wxml -->
+<!-- <text>pages/dq/dq.wxml</text> -->
+<view class="nav">
+    <view class="logo">
+        <image src="../../images/nav-xsd.png" />
+        <text>喜士多</text>
+    </view>
+    <view class="logo active">
+        <image src="../../images/nav-dq.png" style="width:149.1rpx;height:156.1rpx" />
+        <text>DQ冰雪皇后</text>
+    </view>
+    <view class="logo">
+        <image src="../../images/nav-kfc.png" />
+        <text>肯德基</text>
+    </view>
+    <view class="logo">
+        <image src="../../images/nav-ps.png" />
+        <text>必胜客</text>
+    </view>
+    <view class="logo">
+        <image src="../../images/nav-qj.png" />
+        <text>全家</text>
+    </view>
+</view>
+<view class="banner">
+    <image src="../../images/dq_02.png" />
+</view>
+<view class="main">
+    <view class="title">
+        <image src="../../images/dq_01.png" />
+        <text>DQ电子缤纷卡</text>
+    </view>
+    <view class="card">
+        <view class="card-item">
+            <image src="../../images/dq_03.png" />
+            <view class="info">
+                <view>
+                    <view class="name">20元电子缤纷卡ssssssssssssss</view>
+                    <text class="now">￥ 18</text>
+                    <text class="before">￥ 20</text>
+                </view>
+                <text>可直接抵扣等值产品，多次使用</text>
+            </view>
+        </view>
+        <view class="card-item">
+            <image src="../../images/dq_03.png" />
+            <view class="info">
+                <view>
+                    <text class="name">20元电子缤纷卡</text>
+                    <text class="now">￥ 18</text>
+                    <text class="before">￥ 20</text>
+                </view>
+                <text>可直接抵扣等值产品，多次使用</text>
+            </view>
+        </view>
+        <view class="card-item">
+            <image src="../../images/dq_03.png" />
+            <view class="info">
+                <view>
+                    <text class="name">20元电子缤纷卡</text>
+                    <text class="now">￥ 18</text>
+                    <text class="before">￥ 20</text>
+                </view>
+                <text>可直接抵扣等值产品，多次使用</text>
+            </view>
+        </view>
+        <view class="card-item">
+            <image src="../../images/dq_04.png" />
+            <view class="info">
+                <view>
+                    <text class="name">20元电子缤纷卡</text>
+                    <text class="now">￥ 18</text>
+                    <text class="before">￥ 20</text>
+                </view>
+                <text>可直接抵扣等值产品，多次使用</text>
+            </view>
+        </view>
+        <view class="card-item">
+            <image src="../../images/dq_05.png" />
+            <view class="info">
+                <view>
+                    <text class="name">20元电子缤纷卡</text>
+                    <text class="now">￥ 18</text>
+                    <text class="before">￥ 20</text>
+                </view>
+                <text>可直接抵扣等值产品，多次使用</text>
+            </view>
+        </view>
+    </view>
+</view>

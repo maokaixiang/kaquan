@@ -1,1 +1,98 @@
 /* pages/dq/dq.wxss */
+.nav {
+    height: 231rpx;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 31.5rpx;
+}
+.nav .logo {
+    text-align: center;
+}
+.nav .logo image {
+    width: 77rpx;
+    height: 77rpx;
+}
+.nav .logo text {
+    display: block;
+    text-align: center;
+    margin-top: 35rpx;
+    font-size: 19.6rpx;
+    color: #acacac;
+}
+.nav .logo.active text {
+    font-size: 22.4rpx;
+    color: #7c7c7c;
+    margin-top: 14rpx;
+}
+
+.banner {
+    padding: 0 31.5rpx;
+    margin-top: 21rpx;
+}
+.banner image {
+    width: 100%;
+}
+
+.main {
+    padding-left: 38.5rpx;
+}
+.title {
+    height: 77rpx;
+    line-height: 77rpx;
+}
+.title image {
+    width: 55.3rpx;
+    height: 29.4rpx;
+}
+
+.title text {
+    font-size: 25.2rpx;
+    color: #545145;
+    margin-left: 16.1rpx;
+}
+.card {
+    display: flex;
+    flex-wrap: wrap;
+}
+.card .card-item {
+    margin: 0 38.5rpx 31.5rpx 0;
+    box-shadow: 0 5rpx 15rpx #f1f1f1;
+}
+.card .card-item image {
+    width: 317.3rpx;
+    height: 191.7rpx;
+}
+.card .card-item .info {
+    height: 98rpx;
+    padding: 0 12.6rpx 12.6rpx;
+}
+.card .card-item .info view {
+    padding: 0 7rpx;
+}
+.card .card-item .info view .name {
+    font-size: 21.7rpx;
+    color: #333;
+    margin-right: 30rpx;
+    display: inline-block;
+    width: 154rpx;
+    max-width: 154rpx;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+        
+}
+.card .card-item .info view .now {
+    font-size: 16.8rpx;
+    color: #d63f3b;
+    margin-right: 9.1rpx;
+}
+.card .card-item .info view .before {
+    font-size: 14rpx;
+    color: #7b7b7b;
+    text-decoration: line-through;
+}
+.card .card-item .info > text {
+    color: #5e5e5e;
+    font-size: 19.6rpx;
+}
