@@ -5,7 +5,8 @@
     "pages/present/present",
     "pages/dq/dq",
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/xishiduo/xishiduo"
   ],
   "window": {
     "backgroundTextStyle": "light",
