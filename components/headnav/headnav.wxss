@@ -1,0 +1,19 @@
+/* components/headnav/headnav.wxss */
+.headnav{
+    display: flex;
+    white-space: nowrap;
+}
+.item{
+    text-align: center;
+    display: inline-block;
+    width: 192rpx;
+}
+.item image{
+    width: 100rpx;
+    height: 100rpx;
+}
+.item text{
+    display: block;
+    font-size: 28rpx;
+    margin-top: 20rpx;
+}
