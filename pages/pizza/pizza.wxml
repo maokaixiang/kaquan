@@ -1,0 +1,42 @@
+<!--pages/pizza/pizza.wxml-->
+<view class="one">
+    <image  src="../../images/3_21.png" />
+</view>
+<view class="three">
+   
+    <view class="theOne"> 
+        <view class="two">
+        <image src="../../images/3_25.png" />
+        <text class="twoa">必胜客必胜卡</text>
+    </view>
+        <view class="onea">
+            <image src="../../images/3_28.png" />
+            <view class="oneb">
+                <text class="onec">50元必胜卡</text>
+                <view class="oned">￥47.5 <text class="onee">￥50</text></view>
+            </view>
+            <view class="oneg"><text class="onef">世界杯，今晚约起！</text></view>
+            
+    </view>
+    </view>
+     <view class="theTwo">
+        <view class="onea">
+            <image src="../../images/3_30.png" />
+            <view class="oneb">
+                <text class="onec">100元必胜卡</text>
+                <view class="oned">￥95 <text class="onee">￥100</text></view>
+            </view>
+            <view class="oneg"><text class="onef">祝你节日快乐</text></view>   
+    </view>
+    </view>
+</view>
+ <view class="theThree">
+        <view class="onea">
+            <image src="../../images/3_34.png" />
+            <view class="oneb">
+                <text class="onec">200元必胜卡</text>
+                <view class="oned">￥190 <text class="onee">￥200</text></view>
+            </view>
+            <view class="oneg"><text class="onef">走，请你吃PIZZA</text></view>   
+    </view>
+    </view>

@@ -1,11 +1,9 @@
 {
   "pages": [
-<<<<<<< HEAD
     "pages/kfc/kfc",
-=======
+    "pages/pizza/pizza",
     "pages/present/present",
-    "pages/dq/dq",    
->>>>>>> 10e98528ef0cd7e1913f5f0ee633bd2cef7c19c6
+    "pages/dq/dq",
     "pages/index/index",
     "pages/logs/logs"
   ],
