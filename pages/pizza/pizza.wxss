@@ -1,0 +1,72 @@
+/* pages/pizza/pizza.wxss */
+.one image{
+    width: 693rpx;
+    height: 417rpx;
+}
+.one{
+    margin-top: 18rpx;
+    margin-left: 31rpx;
+    margin-right: 28rpx;
+    margin-bottom: 42rpx;
+}
+.onea{
+    width: 318rpx;
+    height: 301rpx;
+    border-bottom: 1px solid #efefef;
+}
+.onea image{
+    width: 318rpx;
+    height: 190rpx;
+    margin-bottom: 15rpx;
+}
+.onec{
+    font-size: 22rpx;
+    color: #333333;
+}
+.oned{
+    font-size: 19rpx;
+    color: #cb4340;
+}
+.onee{
+    font-size: 16rpx;
+    color: #868686;
+    text-decoration: line-through;
+}
+.onef{
+    font-size: 21rpx;
+    color: #5d5d5d;
+}
+.oneb{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20rpx;
+}
+.two image{
+    width: 56rpx;
+    height: 29rpx;
+    margin-right: 16rpx;
+}
+.twoa{
+    font-size: 29rpx;
+    color: #525245;
+}
+.two{
+    margin-bottom: 25rpx;
+}
+.three{
+    margin-left: 38rpx;
+    display: flex;
+}
+.oneg{
+    text-align: center;
+}
+.theTwo{
+    margin-left: 38rpx;
+    margin-top: 72rpx;
+}
+.theThree{
+    margin-top: 28rpx;
+    margin-bottom: 185rpx;
+    margin-left: 38rpx;
+}
+
