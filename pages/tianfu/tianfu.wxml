@@ -3,7 +3,7 @@
     <image class="fiveOne" src="../../images/fiveOne.JPG" />
 </view>
 <view class="mid">
-    <image class="yunLogo" src="../../images/yun.JPG" />
+    <image class="yunLogo" src="../../images/yun_tf.JPG" />
     <text class="textOne">天府心意卡</text>
 </view>
 <view class="downbox">
