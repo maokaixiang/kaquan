@@ -1,0 +1,38 @@
+<!-- pages/present/present.wxml -->
+<headnav></headnav>
+<view class="container1">
+    <view class="banner">
+        <image src="../../images/banner.jpg" />
+    </view>
+    <view class="title">
+        <image src="../../images/yun.jpg" />
+        <text>全家心意卡</text>
+    </view>
+    <view class="card">
+        <view class="card-item">
+            <image src="../../images/together.jpg" />
+            <text>5元现金券</text>
+            <text>不限品类,可兑换任意商品</text>
+        </view>
+        <view class="card-item">
+            <image src="../../images/together.jpg" />
+            <text>10元现金券</text>
+            <text>不限品类,可兑换任意商品</text>
+        </view>
+        <view class="card-item">
+            <image src="../../images/together.jpg" />
+            <text>20元现金券</text>
+            <text>不限品类,可兑换任意商品</text>
+        </view>
+        <view class="card-item">
+            <image src="../../images/together.jpg" />
+            <text>30元现金券</text>
+            <text>不限品类,可兑换任意商品</text>
+        </view>
+        <view class="card-item">
+            <image src="../../images/together.jpg" />
+            <text>50元现金券</text>
+            <text>不限品类,可兑换任意商品</text>
+        </view>
+    </view>
+</view>

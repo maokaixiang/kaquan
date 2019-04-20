@@ -1,0 +1,49 @@
+<!-- pages/kfc/kfc.wxml -->
+<view class="content">
+    <image class="bigImage" src="../../images/1.png"></image>
+    <view class="subtitle">
+        <image style="width:70rpx;height:60rpx;margin-right:20rpx" src="../../images/yun.png"></image>
+        <text style="font-size:40rpx">肯德基礼品卡</text>
+    </view>
+    <view class="all">
+    <view class="list">
+        <image style="width:300rpx;height:180rpx" src="../../images/2.jpg"></image>
+        <view class="listone">
+            <text>50元礼品卡</text>
+            <view>
+                <text style="color:red;">￥47.5</text>
+                <text style="font-size:20rpx;text-decoration:line-through">￥50</text>
+            </view>
+        </view>
+        <view style="margin-top:20rpx">
+            <text>今晚一起看球</text>
+        </view>
+    </view>
+       <view class="list">
+        <image style="width:300rpx;height:180rpx" src="../../images/3.jpg"></image>
+        <view class="listone">
+            <text>100元礼品卡</text>
+            <view>
+                <text style="color:red;">￥95</text>
+                <text style="font-size:20rpx;text-decoration:line-through">￥100</text>
+            </view>
+        </view>
+        <view style="margin-top:20rpx">
+            <text>送给家人浓浓的心意</text>
+        </view>
+    </view>
+    </view>
+    <view class="list">
+        <image style="width:300rpx;height:180rpx" src="../../images/4.jpg"></image>
+        <view class="listone">
+            <text>200元礼品卡</text>
+            <view>
+                <text style="color:red;">￥190</text>
+                <text style="font-size:20rpx;text-decoration:line-through">￥200</text>
+            </view>
+        </view>
+        <view style="margin-top:20rpx">
+            <text>一份心意，送去生日的祝福</text>
+        </view>
+    </view>
+</view>
