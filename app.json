@@ -1,6 +1,10 @@
 {
   "pages": [
+<<<<<<< HEAD
     "pages/present/present",
+=======
+    "pages/dq/dq",    
+>>>>>>> fac690a9fcfc8ba6539f862b2d84a5e720d1e272
     "pages/index/index",
     "pages/logs/logs"
   ],
