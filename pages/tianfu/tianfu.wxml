@@ -1,0 +1,43 @@
+<view class="top">{{Label}}</view>
+<view class="box">
+    <image class="fiveOne" src="../../images/fiveOne.JPG" />
+</view>
+<view class="mid">
+    <image class="yunLogo" src="../../images/yun.JPG" />
+    <text class="textOne">天府心意卡</text>
+</view>
+<view class="downbox">
+    <view class="quan">
+        <image class="fivethree" src="../../images/fivethree.JPG" />
+        <view class="">
+            <text class="textTwo">20元现金券</text>
+            <text class="textThree">￥9.5</text>
+            <text class="textFour">10</text>
+        </view>
+        <view class="">
+            <text class="textFive">不限类品，可兑换任意商品</text>
+        </view>
+    </view>
+    <view class="quan">
+        <image class="fivethree" src="../../images/fiveTwo.JPG" />
+        <view class="">
+            <text class="textTwo">10元现金券</text>
+            <text class="textThree">￥9.5</text>
+            <text class="textFour">10</text>
+        </view>
+        <view class="">
+            <text class="textFive">不限类品，可兑换任意商品</text>
+        </view>
+    </view>
+    <view class="quan">
+        <image class="fivethree" src="../../images/fiveFour.JPG" />
+        <view class="">
+            <text class="textTwo">50元现金券</text>
+            <text class="textThree">￥9.5</text>
+            <text class="textFour">10</text>
+        </view>
+        <view class="">
+            <text class="textFive">不限类品，可兑换任意商品</text>
+        </view>
+    </view>
+</view>

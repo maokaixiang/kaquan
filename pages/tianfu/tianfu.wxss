@@ -1,0 +1,50 @@
+
+.fiveOne{
+    display: flex;
+    width: 700rpx;
+    height: 400rpx;
+    margin: auto;
+}
+.mid{
+    margin-top: 50rpx;
+    line-height: 50rpx;
+    margin-bottom: 20rpx;
+}
+.yunLogo{
+    width: 60rpx;
+    height: 30rpx;
+    margin-left: 38rpx;
+}
+.textOne{
+    font-size: 35rpx;
+    color: #545145;
+}
+.downbox{
+    display: flex;
+    flex-wrap: wrap;
+}
+.quan{
+      margin-left: 30rpx;
+      margin-top: 20rpx;
+}
+.fivethree{
+    width: 331rpx;
+    height: 182rpx; 
+}
+.textTwo{
+    font-size: 25rpx;
+}
+.textThree{
+    font-size: 25rpx;
+    color: #d93e41;
+    margin-left: 80rpx;
+}
+.textFour{
+    font-size: 20rpx;
+    color: #7c7c7c;
+    margin-left: 10rpx;
+}
+.textFive{
+    font-size: 25rpx;
+    color: #5c5c5c;
+}
