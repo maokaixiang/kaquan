@@ -1,0 +1,31 @@
+<!--components/headnav/headnav.wxml-->
+<scroll-view class="headnav" scroll-x="{{true}}">
+<view class="item">
+<image src="../../images/xishiduo.jpg" catchtap="xishiduo"/>
+<text>喜事多</text>
+</view>
+<view class="item">
+<image src="../../images/dq.jpg" catchtap="dq"/>
+<text>DQ冰雪皇后</text>
+</view>
+<view class="item">
+<image src="../../images/kfc.jpg" catchtap="kfc"/>
+<text>肯德基</text>
+</view>
+<view class="item">
+<image src="../../images/xishiduo.jpg" catchtap="bishengke"/>
+<text>必胜客</text>
+</view>
+<view class="item">
+<image src="../../images/family.jpg" catchtap="family"/>
+<text>全家</text>
+</view>
+<view class="item">
+<image src="../../images/dq.jpg" catchtap="tianfu"/>
+<text>广州天福</text>
+</view>
+<view class="item">
+<image src="../../images/kfc.jpg" catchtap="shanlin"/>
+<text>山林</text>
+</view>
+</scroll-view>
