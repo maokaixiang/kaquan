@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/pizza/pizza",
     "pages/present/present",
     "pages/dq/dq",    
     "pages/index/index",

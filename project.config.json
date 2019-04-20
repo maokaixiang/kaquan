@@ -14,7 +14,11 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.6.6",
 <<<<<<< HEAD
+<<<<<<< HEAD
 	"appid": "wxd58b8c48fe8a22a6",
+=======
+	"appid": "wxaee5cc3e83b92028",
+>>>>>>> 046ac0eb7adf6d2a274d5daea2018e7fda45cddd
 =======
 	"appid": "wx929337ff2a99dec5",
 >>>>>>> 10e98528ef0cd7e1913f5f0ee633bd2cef7c19c6
