@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "全家礼品卡",
+  "usingComponents": {
+    "headnav":"/components/headnav/headnav"
+  }
+}

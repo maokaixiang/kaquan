@@ -13,7 +13,11 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.6.6",
+<<<<<<< HEAD
 	"appid": "wxd58b8c48fe8a22a6",
+=======
+	"appid": "wx929337ff2a99dec5",
+>>>>>>> 10e98528ef0cd7e1913f5f0ee633bd2cef7c19c6
 	"projectname": "kaquan",
 	"debugOptions": {
 		"hidedInDevtools": []
