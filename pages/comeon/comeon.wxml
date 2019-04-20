@@ -1,0 +1,47 @@
+<!--pages/comeon/comeon.wxml-->
+<view clsaa="container">
+
+<view clsaa="nav"></view>
+
+<view clsaa="conent">
+    <image src="../../images/one.jpg" class="img"/>
+</view>
+
+ <view clsaa="comment">
+     <view >
+          <image src="../../images/two.jpg" class="imgtwo"/>
+           <text class="text">天福心意卡</text>
+     </view>
+
+       <view class="photo">
+               <view >
+                   <image src="../../images/three.jpg" class="imgthree"/>
+                     <view>
+                         <text class="quan">10元现金券<text class="cheap">￥9.5</text></text>
+                     </view>
+                      <view >
+                         <text class="sp">不限品类，可兑换任何商品</text>
+                     </view>
+               </view>
+
+               <view >
+                   <image src="../../images/four.jpg" class="imgthree"/>
+                     <view>
+                         <text class="quan">20元现金券<text class="cheap">￥19</text></text>
+                     </view>
+                      <view >
+                         <text class="sp">不限品类，可兑换任何商品</text>
+                     </view>
+               </view>
+       </view>
+        <view >
+                   <image src="../../images/five.jpg" class="imgthree"/>
+                     <view>
+                         <text class="quan">50元现金券<text class="cheap">￥47.5</text></text>
+                     </view>
+                      <view >
+                         <text class="sp">不限品类，可兑换任何商品</text>
+                     </view>
+               </view>
+ </view>
+</view>

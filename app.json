@@ -1,6 +1,7 @@
 {
   "pages": [
     "pages/tianfu/tianfu",
+    "pages/comeon/comeon",
     "pages/kfc/kfc",
     "pages/pizza/pizza",
     "pages/present/present",
