@@ -1,0 +1,45 @@
+/* pages/comeon/comeon.wxss */
+
+.conent{
+    height:642rpx;
+}
+.img{
+    height:300rpx;
+    width: 654rpx;
+   margin-left: 45rpx;
+}
+.imgtwo{
+   width: 50rpx;
+   height:40rpx;
+   margin-left: 45rpx;
+   margin-top: 50rpx;
+}
+.text{
+    font-size: 30rpx;
+    color: #585954;
+    margin-left: 26rpx;
+}
+.imgthree{
+    height: 170rpx;
+    width: 300rpx;
+    margin-left: 45rpx;
+    margin-top: 35rpx;
+}
+.quan{
+    margin-left: 70rpx;
+    font-size: 27rpx;
+    color:#767676
+}
+.cheap{
+    font-size: 20rpx;
+    color: #e49498;
+    margin-left: 40rpx;
+}
+.sp{
+    margin-left: 60rpx;
+    font-size: 20rpx;
+    color:#767676
+}
+.photo{
+    display: flex
+}
